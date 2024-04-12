@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @aj-ats
+- 👀 I’m interested in Dapps
+- 🌱 I’m currently learning TS
+- 📫 
