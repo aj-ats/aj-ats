@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aj-ats
 - 👀 I’m interested in Dapps
-- 🌱 I’m currently learning ![alt text](https://www.mysql.com/common/logos/includes-mysql-88x31.png) ![alt text](!https://icons.iconarchive.com/icons/pictogrammers/material/72/language-typescript-icon.png)
+- 🌱 I’m currently learning ![alt text](https://icons.iconarchive.com/icons/igh0zt/ios7-style-metro-ui/48/MetroUI-Apps-HTML-5-icon.png) ![alt text](https://icons.iconarchive.com/icons/simpleicons-team/simple/128/solidity-icon.png) ![alt text](https://icons.iconarchive.com/icons/pictogrammers/material/72/language-typescript-icon.png)
 - current tech stack ![alt text](https://docs.chain.link/assets/icons/chainlink-logo.svg) 
 - 
