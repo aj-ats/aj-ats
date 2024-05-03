@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning
 - ![alt text](https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/tensorflow/tensorflow.svg) ![alt text](https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/typescript/typescript.svg) ![alt text](https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/azure/azure.svg) 
 - current tech stack
--  ![alt text](https://docs.chain.link/assets/icons/chainlink-logo.svg) ![alt text](https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/html/html.svg) ![alt text](https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/css/css.svg)
+-  ![alt text](https://seeklogo.com/images/C/chain-link-logo-7324D3FE22-seeklogo.com.png) ![alt text](https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/html/html.svg) ![alt text](https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/css/css.svg)
 - 
