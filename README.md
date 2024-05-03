@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aj-ats
 - 👀 I’m interested in Dapps
 - 🌱 I’m currently learning TS
-- current tech stack ![alt text](https://docs.chain.link/assets/icons/chainlink-logo.svg) ![alt text](https://miro.medium.com/v2/resize:fit:792/1*lJ32Bl-lHWmNMUSiSq17gQ.png)
+- current tech stack ![alt text](https://docs.chain.link/assets/icons/chainlink-logo.svg) ![alt text](https://www.mysql.com/common/logos/includes-mysql-88x31.png)
 - 
